@@ -10,3 +10,4 @@
 /dataSources.local.xml
 # Zeppelin ignored files
 /ZeppelinRemoteNotebooks/
+/BLOCK_2_Upload_Data/data/
