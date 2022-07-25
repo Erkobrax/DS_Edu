@@ -3,20 +3,6 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
-        <entry key="C:\Users\Denis\Desktop\skillfactory\data\PYTHON-14\diabetes_data\diabetes_data.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="C:\Users\Denis\Desktop\skillfactory\data\Project_1\ExchangeRates\ExchangeRates.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
         <entry key="\BLOCK.1\Data\diabetes_data\diabetes_data.csv">
           <value>
             <Attribute>
@@ -28,6 +14,20 @@
           <value>
             <Attribute>
               <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\BLOCK_2_Upload_Data\data\ErrorEnCoding.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\BLOCK_2_Upload_Data\data\countries.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
             </Attribute>
           </value>
         </entry>
