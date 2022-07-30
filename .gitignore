@@ -1,5 +1,6 @@
 /Projects/Project_one/data/
 /BLOCK.1/Data/
+/BLOCK_3_EDA/data/
 # Default ignored files
 /shelf/
 /workspace.xml
@@ -11,5 +12,4 @@
 # Zeppelin ignored files
 /ZeppelinRemoteNotebooks/
 /BLOCK_2_Upload_Data/data/
-/BLOCK_3_EDA/data/
 
