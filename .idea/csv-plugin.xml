@@ -38,6 +38,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\BLOCK_3_EDA\data\wine.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\Projects\Project_one\data\ExchangeRates.csv">
           <value>
             <Attribute>
