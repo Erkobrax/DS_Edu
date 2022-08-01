@@ -5,6 +5,9 @@
 * [How_to_read_files](https://github.com/Erkobrax/DS_Edu/blob/74dc34f578b2ae248383f461ec2e3cf99c2d1c2e/BLOCK_2_Upload_Data/PYTHON-16.ipynb)
 * [API](https://github.com/Erkobrax/DS_Edu/blob/74dc34f578b2ae248383f461ec2e3cf99c2d1c2e/BLOCK_2_Upload_Data/PYTHON-17.ipynb)
 ### [BLOCK-3](https://github.com/Erkobrax/DS_Edu/blob/74dc34f578b2ae248383f461ec2e3cf99c2d1c2e/BLOCK_3_EDA):
+* [EDA](https://github.com/Erkobrax/DS_Edu/blob/f9db97eb04c31cf1f551db3090c6cd5823499a36/BLOCK_3_EDA/EDA.ipynb)
+* [MathStat_1](https://github.com/Erkobrax/DS_Edu/blob/f9db97eb04c31cf1f551db3090c6cd5823499a36/BLOCK_3_EDA/MathStat_1.ipynb)
+* [MathStat_2](https://github.com/Erkobrax/DS_Edu/blob/f9db97eb04c31cf1f551db3090c6cd5823499a36/BLOCK_3_EDA/MathStat_2.ipynb)
 # Describe and Data for course projects:
 ###  [Project_one(Head_hunter)](https://github.com/Erkobrax/DS_Edu/blob/47ba0d270479cce8871997c8c8d70933303ed391/Projects/Project_one/Head_Hunter.ipynb):
   * Basic Analysis, Data transformation, Intelligence analysis, Data cleaning - Basic level
