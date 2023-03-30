@@ -38,6 +38,34 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\BLOCK_3_EDA\Data\country_area.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\BLOCK_3_EDA\Data\country_population.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\BLOCK_3_EDA\Data\heart.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\BLOCK_3_EDA\Data\iris.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\BLOCK_3_EDA\Data\model.csv">
           <value>
             <Attribute>
@@ -45,7 +73,70 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\BLOCK_3_EDA\Data\wine_cleared.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\BLOCK_3_EDA\data\wine.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\BLOCK_3_REPEAT\Data\ab_data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\BLOCK_3_REPEAT\Data\ab_data_tourist.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\BLOCK_3_REPEAT\Data\pizzas (1).csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\BLOCK_3_REPEAT\Data\pizzas.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\BLOCK_3_REPEAT\pizzas (1).csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\BLOCK_3_REPEAT\pizzas.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\BLOCK_3_REPEAT\wine_cleared.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Projects\AB_task\Data\ab_data_tourist.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
