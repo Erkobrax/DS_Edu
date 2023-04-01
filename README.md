@@ -12,3 +12,5 @@
 ###  [Project_one(Head_hunter)](https://github.com/Erkobrax/DS_Edu/blob/47ba0d270479cce8871997c8c8d70933303ed391/Projects/Project_one/Head_Hunter.ipynb):
   * Basic Analysis, Data transformation, Intelligence analysis, Data cleaning - Basic level
   * https://drive.google.com/drive/folders/1l1O5kpVmlSzqYozcWkV3lv6lzUrCOMeU?usp=sharing
+### [Practice A/B](https://github.com/Erkobrax/DS_Edu/blob/f4e7a835a10bfde22dde9ed0374bb1d5a46749bf/Projects/AB_task/Template_EDA_5.ipynb):
+  * Comparison of conversion and average receipt. Using statistical tests and confidence intervals
