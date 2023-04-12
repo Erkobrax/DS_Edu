@@ -101,31 +101,10 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="\BLOCK_3_REPEAT\Data\pizzas (1).csv">
+        <entry key="\BLOCK_3_REPEAT\Data\new-site.csv">
           <value>
             <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\BLOCK_3_REPEAT\Data\pizzas.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\BLOCK_3_REPEAT\pizzas (1).csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\BLOCK_3_REPEAT\pizzas.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
+              <option name="separator" value="&#9;" />
             </Attribute>
           </value>
         </entry>
@@ -136,7 +115,56 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\BLOCK_4_ML\Data\50_Startups.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\BLOCK_4_ML\Data\adult.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\BLOCK_4_ML\Data\audi.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\BLOCK_4_ML\Data\diabetes_cleaned\diabetes_cleaned.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\BLOCK_4_ML\Data\insurance.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\BLOCK_4_ML\Data\task_data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\Projects\AB_task\Data\ab_data_tourist.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Projects\PROJECT-3.EDA + Feature Engineering\hotels.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
