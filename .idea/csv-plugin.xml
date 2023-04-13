@@ -143,6 +143,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\BLOCK_4_ML\Data\housing.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\BLOCK_4_ML\Data\insurance.csv">
           <value>
             <Attribute>
@@ -151,6 +158,20 @@
           </value>
         </entry>
         <entry key="\BLOCK_4_ML\Data\task_data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\BLOCK_4_ML\ML-4 Обучение без учителя кластеризация\Data\pokemon.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\BLOCK_4_ML\ML-4 Обучение без учителя кластеризация\Data\values_from_the_instrument.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
