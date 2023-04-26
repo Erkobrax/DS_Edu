@@ -129,6 +129,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\BLOCK_4_ML\Data\airbnb.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\BLOCK_4_ML\Data\audi.csv">
           <value>
             <Attribute>
@@ -157,7 +164,28 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\BLOCK_4_ML\Data\online_shoppers_intention.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\BLOCK_4_ML\Data\segmented_customers.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\BLOCK_4_ML\Data\task_data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\BLOCK_4_ML\Data\water_potability.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />

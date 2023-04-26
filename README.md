@@ -18,4 +18,4 @@
   * https://drive.google.com/drive/folders/1l1O5kpVmlSzqYozcWkV3lv6lzUrCOMeU?usp=sharing
 ### [Practice A/B](https://github.com/Erkobrax/DS_Edu/blob/f4e7a835a10bfde22dde9ed0374bb1d5a46749bf/Projects/AB_task/Template_EDA_5.ipynb):
   * Comparison of conversion and average receipt. Using statistical tests and confidence intervals
-### [Some ML]
+### [Some ML] 
