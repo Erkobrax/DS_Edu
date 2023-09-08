@@ -129,6 +129,20 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\BLOCK_4_ML\Data\adult_data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\BLOCK_4_ML\Data\adult_test.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\BLOCK_4_ML\Data\airbnb.csv">
           <value>
             <Attribute>
@@ -203,6 +217,20 @@
           <value>
             <Attribute>
               <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\HOMEWORK\sputnik8\affiliate_orders.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\HOMEWORK\sputnik8\affiliates.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
             </Attribute>
           </value>
         </entry>
